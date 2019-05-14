@@ -1,5 +1,5 @@
 # frp-deb-package
-This is a pre-packaged Debian Package for (frp)[https://github.com/fatedier/frp] in order to save your time.
+This is a pre-packaged Debian/Ubuntu Package for (frp)[https://github.com/fatedier/frp] in order to save your time.
 
 The package installs both frpc and frps at same time, frps and frpc binary file will be placed at /usr/bin, configuration files will be placed at /etc/frp. 
 
